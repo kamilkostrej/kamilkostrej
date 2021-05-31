@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamilkostrej
+- 👋 Hi, I’m @kamilkostrej.
 - 👀 I’m interested in learning Python.
 - 🌱 I’m currently learning Python with Engeto.
 - 💞️ I’m looking to collaborate on python projects.
